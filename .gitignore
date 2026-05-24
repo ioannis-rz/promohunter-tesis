@@ -1,0 +1,6 @@
+*.session
+*.session-journal
+sesion_promohunter*
+__pycache__/
+*.pyc
+.env

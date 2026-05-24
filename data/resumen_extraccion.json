@@ -1,0 +1,167 @@
+{
+  "total_mensajes": 21097,
+  "total_productos": 21081,
+  "total_vistas": 6613127,
+  "total_forwards": 7715,
+  "vistas_promedio_global": 313.5,
+  "mensajes_con_cupon": 9602,
+  "mensajes_con_media": 21092,
+  "precio_descuento_medio_COP": 105407.0,
+  "precio_original_medio_COP": 164426.0,
+  "pct_descuento_medio": 45.5,
+  "rating_medio": 4.48,
+  "vistas_por_hora_col": {
+    "0": {
+      "vistas_promedio": 392.6,
+      "n_posts": 168
+    },
+    "1": {
+      "vistas_promedio": 505.6,
+      "n_posts": 54
+    },
+    "2": {
+      "vistas_promedio": 642.6,
+      "n_posts": 13
+    },
+    "3": {
+      "vistas_promedio": 465.5,
+      "n_posts": 2
+    },
+    "4": {
+      "vistas_promedio": 377.4,
+      "n_posts": 18
+    },
+    "6": {
+      "vistas_promedio": 438.0,
+      "n_posts": 2
+    },
+    "7": {
+      "vistas_promedio": 388.6,
+      "n_posts": 90
+    },
+    "8": {
+      "vistas_promedio": 339.5,
+      "n_posts": 754
+    },
+    "9": {
+      "vistas_promedio": 324.2,
+      "n_posts": 1096
+    },
+    "10": {
+      "vistas_promedio": 316.3,
+      "n_posts": 1425
+    },
+    "11": {
+      "vistas_promedio": 301.9,
+      "n_posts": 1615
+    },
+    "12": {
+      "vistas_promedio": 296.9,
+      "n_posts": 1744
+    },
+    "13": {
+      "vistas_promedio": 291.5,
+      "n_posts": 1751
+    },
+    "14": {
+      "vistas_promedio": 289.2,
+      "n_posts": 1765
+    },
+    "15": {
+      "vistas_promedio": 287.9,
+      "n_posts": 1747
+    },
+    "16": {
+      "vistas_promedio": 291.9,
+      "n_posts": 1751
+    },
+    "17": {
+      "vistas_promedio": 296.9,
+      "n_posts": 1744
+    },
+    "18": {
+      "vistas_promedio": 307.6,
+      "n_posts": 1759
+    },
+    "19": {
+      "vistas_promedio": 330.0,
+      "n_posts": 1743
+    },
+    "20": {
+      "vistas_promedio": 386.3,
+      "n_posts": 1748
+    },
+    "21": {
+      "vistas_promedio": 510.2,
+      "n_posts": 96
+    },
+    "22": {
+      "vistas_promedio": 579.1,
+      "n_posts": 9
+    },
+    "23": {
+      "vistas_promedio": 599.3,
+      "n_posts": 3
+    }
+  },
+  "vistas_por_dia_semana": {
+    "Domingo": {
+      "vistas_promedio": 340.1,
+      "n_posts": 2560
+    },
+    "Jueves": {
+      "vistas_promedio": 296.1,
+      "n_posts": 3399
+    },
+    "Lunes": {
+      "vistas_promedio": 335.8,
+      "n_posts": 2717
+    },
+    "Martes": {
+      "vistas_promedio": 326.7,
+      "n_posts": 3346
+    },
+    "Miércoles": {
+      "vistas_promedio": 308.0,
+      "n_posts": 2945
+    },
+    "Sábado": {
+      "vistas_promedio": 297.9,
+      "n_posts": 3006
+    },
+    "Viernes": {
+      "vistas_promedio": 297.1,
+      "n_posts": 3124
+    }
+  },
+  "vistas_por_categoria": {
+    "deportes": {
+      "vistas_promedio": 315.4,
+      "n_posts": 242
+    },
+    "hogar": {
+      "vistas_promedio": 312.6,
+      "n_posts": 3435
+    },
+    "juguetes": {
+      "vistas_promedio": 312.8,
+      "n_posts": 720
+    },
+    "otra": {
+      "vistas_promedio": 311.9,
+      "n_posts": 6910
+    },
+    "ropa": {
+      "vistas_promedio": 310.6,
+      "n_posts": 1626
+    },
+    "salud/belleza": {
+      "vistas_promedio": 307.6,
+      "n_posts": 1705
+    },
+    "tecnología": {
+      "vistas_promedio": 317.3,
+      "n_posts": 6443
+    }
+  }
+}
